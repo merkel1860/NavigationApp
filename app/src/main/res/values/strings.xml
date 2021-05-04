@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">NavigationApp</string>
+    <string name="hint">Type your message, mi querida!</string>
+    <string name="send">Send Message</string>
 </resources>
