@@ -2,4 +2,6 @@
     <string name="app_name">NavigationApp</string>
     <string name="hint">Type your message, mi querida!</string>
     <string name="send">Send Message</string>
+    <string name="back_button">Back</string>
+    <string name="cancel_button">Cancel</string>
 </resources>
